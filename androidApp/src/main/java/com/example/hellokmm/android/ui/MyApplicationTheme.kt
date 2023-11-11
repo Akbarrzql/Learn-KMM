@@ -1,4 +1,4 @@
-package com.example.hellokmm.android
+package com.example.hellokmm.android.ui
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.shape.RoundedCornerShape
