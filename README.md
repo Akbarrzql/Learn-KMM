@@ -1,4 +1,4 @@
-# [Kotlin Multiplatfrom Mobile] ([https://www.jetbrains.com/kotlin-multiplatform/]) mobile application
+# [Kotlin Multiplatfrom Mobile](https://www.jetbrains.com/kotlin-multiplatform/) mobile application
 
 > **Note (This Project Using)**
 > Kotlin Coroutine Flow
