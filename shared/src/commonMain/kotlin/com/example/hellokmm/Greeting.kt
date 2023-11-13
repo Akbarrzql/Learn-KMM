@@ -1,6 +1,6 @@
 package com.example.hellokmm
 
-import com.example.hellokmm.source.remote.RocketComponent
+import com.example.hellokmm.source.remote.network.RocketComponent
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow

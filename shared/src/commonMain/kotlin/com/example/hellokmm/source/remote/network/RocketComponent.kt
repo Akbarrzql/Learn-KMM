@@ -1,6 +1,6 @@
-package com.example.hellokmm.source.remote
+package com.example.hellokmm.source.remote.network
 
-import com.example.hellokmm.source.local.RocketLaunch
+import com.example.hellokmm.source.remote.response.RocketLaunch
 import io.ktor.client.*
 import io.ktor.client.call.body
 import io.ktor.client.plugins.contentnegotiation.*

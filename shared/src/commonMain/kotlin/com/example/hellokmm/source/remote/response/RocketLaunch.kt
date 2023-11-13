@@ -1,4 +1,4 @@
-package com.example.hellokmm.source.local
+package com.example.hellokmm.source.remote.response
 
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
